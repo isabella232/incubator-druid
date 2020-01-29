@@ -571,6 +571,7 @@ convertRange
 - ../docs/development/extensions-contrib/prometheus.md
 HTTPServer
 conversionFactor
+prometheus
  - ../docs/development/extensions-contrib/tdigestsketch-quantiles.md
 postAggregator
 quantileFromTDigestSketch
